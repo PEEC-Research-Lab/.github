@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PEEC-Research-Lab&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGY511/PEEC-Research-Lab&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
